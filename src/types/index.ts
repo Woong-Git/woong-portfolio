@@ -16,12 +16,12 @@ export interface WorkExperienceProps {
 }
 
 export interface ProjectProps {
+  experience: number;
   id: number;
   name: string;
   description: string;
   repoUrl: string;
   webUrl?: string;
-  isTeam?: boolean;
   period: string[];
   stack: string[];
   markdown?: string;
