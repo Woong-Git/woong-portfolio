@@ -1,7 +1,4 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- **최고의 복지는 최고의 동료**, 내가 먼저 최고의 동료가 되겠습니다.
+- **협업**과 **커뮤니케이션**을 통해 팀의 목표를 달성할 수 있도록 기여하겠습니다.
+- 맡은 일은 반드시 끝내고야 마는 **강인한 책임감과 집념**을 가지고 있습니다.
+- **만들고, 확인하고, 덜어내어**, 효율적이고 관리가 편한 서비스를 만들고 싶습니다.

@@ -11,7 +11,6 @@ type ProjectComponentProps = {
 const Project = ({ project, workExperience }: ProjectComponentProps) => {
     // workExperience 배열을 역순으로 정렬
     const reversedExperienceList = (workExperience ?? []).slice().reverse();
-    console.log("workExperience:", reversedExperienceList);
 
     return (
         <>
@@ -19,7 +18,7 @@ const Project = ({ project, workExperience }: ProjectComponentProps) => {
                 const originalIndex = workExperience.length - 1 - index;
                 return (
                     <div key={originalIndex}>
-                        <SectionTitle>{item.name}</SectionTitle>
+                        <SectionTitle>프로젝트 in {item.name}</SectionTitle>
                         <div className="flex flex-col gap-24">
                             {[...project]
                                 .reverse()

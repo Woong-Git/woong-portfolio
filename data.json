@@ -34,7 +34,7 @@
       "webUrl": "https://www.bandainamcoent.com/",
       "experience": 0,
       "period": ["2018. 04", "2022. 09"],
-      "stack": ["C#", "ASP.Net", "JQuery", "MySQL"]
+      "stack": ["C#", "ASP.Net", "JQuery", "MySQL", "AWS S3"]
     },
     {
       "id": 1,
@@ -79,7 +79,25 @@
       "webUrl": "https://hyphen.im/",
       "experience": 0,
       "period": ["2021. 09", "2022. 03"],
-      "stack": ["C#", "ASP.Net", "JQuery", "MySQL", "Java", "SpringBoot", "MyBatis", "Thymeleaf"]
+      "stack": ["C#", "ASP.Net", "MySQL"]
+    },
+    {
+      "id": 6,
+      "name": "[개발] 하이픈 페이 백오피스",
+      "description": "하이픈 페이 서비스에 대한 백오피스 개발",
+      "webUrl": "https://play.google.com/store/apps/details?id=co.kr.hyphen.pay",
+      "experience": 0,
+      "period": ["2022. 04", "2022. 09"],
+      "stack": ["Java", "SpringBoot", "Mybatis", "MySql", "Thymeleaf"]
+    },
+    {
+      "id": 7,
+      "name": "[운영] 단기알바, 쑨",
+      "description": "'단기알바, 쑨' 앱 서비스에 대한 백엔드 운영",
+      "webUrl": "https://www.newsworks.co.kr/news/articleView.html?idxno=314928",
+      "experience": 1,
+      "period": ["2023. 04", "2024. 12"],
+      "stack": ["Java", "SpringBoot", "AWS DocDB", "Docker", "AWS ECS", "AWS ECR", "AWS CodePipeline", "AWS API Gateway", "AWS S3", "AWS CloudWatch", "AWS SQS"]
     }
 
 
@@ -105,7 +123,7 @@
       "id": 1,
       "name": "한성 대학교",
       "period": ["2012. 03", "2028. 02"],
-      "description": ""
+      "description": "컴퓨터공학부 졸업"
     }
   ],
 
