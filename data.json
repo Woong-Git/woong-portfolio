@@ -30,7 +30,7 @@
     {
       "id": 0,
       "name": "[운영] 반다이 남코 US",
-      "description": "반다이 남코의 US 서비스에 대한 빌링 시스템 운영",
+      "description": "반다이 남코의 US 서비스에 대한 게임 빌링 시스템 운영",
       "webUrl": "https://www.bandainamcoent.com/",
       "experience": 0,
       "period": ["2018. 04", "2022. 09"],
@@ -39,7 +39,7 @@
     {
       "id": 1,
       "name": "[운영] 레진코믹스 JP/US",
-      "description": "레진코믹스의 JP/US 서비스에 대한 빌링 시스템 운영",
+      "description": "레진코믹스의 JP/US 서비스에 대한 컨텐츠 빌링 시스템 운영",
       "webUrl": "https://www.lezhinus.com/en",
       "experience": 0,
       "period": ["2018. 10", "2022. 09"],
@@ -47,8 +47,8 @@
     },
     {
       "id": 2,
-      "name": "[개발] Netgame C# to Java 전환",
-      "description": "Netgame의 빌링시스템을 C# to Java로 전환",
+      "name": "[개발] Netgame C# to Java 전환 및 운영",
+      "description": "Netgame의 게임 빌링 시스템을 C# to Java로 전환 및 운영",
       "webUrl": "https://www.netgame.com/",
       "experience": 0,
       "period": ["2019. 08", "2020. 03"],
@@ -57,7 +57,7 @@
     {
       "id": 3,
       "name": "[개발] 에이프로젠 Trove",
-      "description": "에이프로젠의 Trove 게임에 대한 빌링 시스템 운영",
+      "description": "에이프로젠의 Trove 게임에 대한 게임 빌링 시스템 운영",
       "webUrl": "http://www.gamejob.co.kr/community/news/detail?mode=V&comm_stat=11&Sub_Comm_Stat=0&idx=81996",
       "experience": 0,
       "period": ["2020. 06", "2021. 03"],
@@ -66,7 +66,7 @@
     {
       "id": 4,
       "name": "[개발] Way2Bit Astellia Royal",
-      "description": "Way2Bit의 Astellia Royal 게임에 대한 빌링 시스템 운영",
+      "description": "Way2Bit의 Astellia Royal 게임에 대한 게임 빌링 시스템 운영",
       "webUrl": "https://www.techm.kr/news/articleView.html?idxno=74766",
       "experience": 0,
       "period": ["2020. 07", "2020. 09"],
@@ -75,7 +75,7 @@
     {
       "id": 5,
       "name": "[개발] 하이픈 API 마켓 빌링시스템",
-      "description": "하이픈 API 마켓 서비스에 대한 빌링시스템 개발 및 백오피스 개발",
+      "description": "하이픈 API 마켓 서비스에 대한 빌링 시스템 개발 및 백오피스 개발",
       "webUrl": "https://hyphen.im/",
       "experience": 0,
       "period": ["2021. 09", "2022. 03"],
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "[운영] 단기알바, 쑨",
-      "description": "'단기알바, 쑨' 앱 서비스에 대한 백엔드 운영",
+      "description": "크몽에서 서비스하는 '단기알바, 쑨' 모바일 앱에 대한 백엔드 운영",
       "webUrl": "https://www.newsworks.co.kr/news/articleView.html?idxno=314928",
       "experience": 1,
       "period": ["2023. 04", "2024. 12"],
